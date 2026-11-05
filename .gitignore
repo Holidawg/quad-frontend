@@ -1,0 +1,6 @@
+#remove images
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
